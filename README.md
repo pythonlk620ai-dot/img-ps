@@ -6,7 +6,7 @@ Img-PS operates directly in the browser. You can create images, paste from the c
 
 
 ## Preview
-https://img-ps.com/
+https://img-ps.top/
 
 ## Browser Support
 
